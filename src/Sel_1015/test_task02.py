@@ -6,3 +6,4 @@ def test_verify_url():
     assert driver.current_url == "https://katalon-demo-cura.herokuapp.com/"
     assert driver.title == "CURA Healthcare Service"
     driver.page_source.find("CURA Healthcare Service")
+
