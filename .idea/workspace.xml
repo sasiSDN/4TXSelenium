@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbe55b4e-3bd3-4c77-877c-6e9138ef2dbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/4TXSelenium.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sel_1015/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sel_1015/test_lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sel_1015/test_lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sel_1015/test_task02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+    <list default="true" id="fbe55b4e-3bd3-4c77-877c-6e9138ef2dbd" name="Changes" comment="15th files of october">
+      <change afterPath="$PROJECT_DIR$/src/Sel_1015/test_lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sel_1015/test_lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sel_1015/test_task_1017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sasiSDN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sasiSDN/4TXSelenium.git",
+    "accountId": "7786c1e9-5193-4454-b2e5-93246708fd15"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -45,12 +50,15 @@
   "keyToString": {
     "Python tests.Python tests for test_lab001.test_sample.executor": "Run",
     "Python tests.Python tests for test_lab002.test_open_login.executor": "Run",
+    "Python tests.Python tests for test_lab003.test_chrome_options.executor": "Run",
+    "Python tests.Python tests for test_lab004.test_verify_url.executor": "Run",
     "Python tests.Python tests for test_task01.test_verify_url.executor": "Run",
+    "Python tests.Python tests for test_task_1017.test_login.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests for test_task_1017.test_login">
     <configuration name="Python tests for src.Sel_1015.test_task02.test_verify_url" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="4TXSelenium" />
       <option name="ENV_FILES" value="" />
@@ -63,21 +71,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;src.Sel_1015.test_task02.test_verify_url&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_lab001.test_sample" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="4TXSelenium" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sel_1015" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab001.test_sample&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -96,11 +89,58 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_lab003.test_chrome_options" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="4TXSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sel_1015" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab003.test_chrome_options&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_lab004.test_verify_url" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="4TXSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sel_1015" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab004.test_verify_url&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_task_1017.test_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="4TXSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sel_1015" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_task_1017.test_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for src.Sel_1015.test_task02.test_verify_url" />
+        <item itemvalue="Python tests.Python tests for test_task_1017.test_login" />
+        <item itemvalue="Python tests.Python tests for test_lab004.test_verify_url" />
+        <item itemvalue="Python tests.Python tests for test_lab003.test_chrome_options" />
         <item itemvalue="Python tests.Python tests for test_lab002.test_open_login" />
-        <item itemvalue="Python tests.Python tests for test_lab001.test_sample" />
+        <item itemvalue="Python tests.Python tests for src.Sel_1015.test_task02.test_verify_url" />
       </list>
     </recent_temporary>
   </component>
@@ -120,6 +160,27 @@
       <option name="presentableId" value="Default" />
       <updated>1729084726354</updated>
     </task>
+    <task id="LOCAL-00001" summary="15th files of october">
+      <option name="closed" value="true" />
+      <created>1729092633151</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729092633151</updated>
+    </task>
+    <task id="LOCAL-00002" summary="15th files of october">
+      <option name="closed" value="true" />
+      <created>1729092711081</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729092711081</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="15th files of october" />
+    <option name="LAST_COMMIT_MESSAGE" value="15th files of october" />
   </component>
 </project>
