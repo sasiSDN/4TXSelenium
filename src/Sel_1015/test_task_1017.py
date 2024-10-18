@@ -1,7 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
-
 def test_login():
     driver=webdriver.Chrome()
     driver.get("https://katalon-demo-cura.herokuapp.com/")
