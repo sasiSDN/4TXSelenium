@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbe55b4e-3bd3-4c77-877c-6e9138ef2dbd" name="Changes" comment="19th files of october" />
+    <list default="true" id="fbe55b4e-3bd3-4c77-877c-6e9138ef2dbd" name="Changes" comment="19th files of october">
+      <change afterPath="$PROJECT_DIR$/src/Locators_1019/test_task01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,13 +54,14 @@
     "Python tests.Python tests for test_lab003.test_4.executor": "Run",
     "Python tests.Python tests for test_lab003.test_chrome_options.executor": "Run",
     "Python tests.Python tests for test_lab004.test_verify_url.executor": "Run",
+    "Python tests.Python tests for test_task01.test_register.executor": "Run",
     "Python tests.Python tests for test_task01.test_verify_url.executor": "Run",
     "Python tests.Python tests for test_task_1017.test_login.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_lab003.test_4">
+  <component name="RunManager" selected="Python tests.Python tests for test_task01.test_register">
     <configuration name="Python tests for test_lab001.test_negative_vwo_url" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="4TXSelenium" />
       <option name="ENV_FILES" value="" />
@@ -118,28 +122,28 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_task_1017.test_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_task01.test_register" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="4TXSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sel_1015" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Locators_1019" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_task_1017.test_login&quot;" />
+      <option name="_new_target" value="&quot;test_task01.test_register&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_task01.test_register" />
         <item itemvalue="Python tests.Python tests for test_lab003.test_4" />
         <item itemvalue="Python tests.Python tests for test_lab002.test_postive_free_trail" />
         <item itemvalue="Python tests.Python tests for test_lab002.test_negative_vwo_url" />
         <item itemvalue="Python tests.Python tests for test_lab001.test_negative_vwo_url" />
-        <item itemvalue="Python tests.Python tests for test_task_1017.test_login" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729490005228</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="19th files of october">
+      <option name="closed" value="true" />
+      <created>1729490056757</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729490056757</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
