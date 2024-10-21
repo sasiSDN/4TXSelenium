@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbe55b4e-3bd3-4c77-877c-6e9138ef2dbd" name="Changes" comment="17th files of october">
-      <change beforePath="$PROJECT_DIR$/src/Sel_1015/test_task_1017.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sel_1015/test_task_1017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Locators_1019/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Locators_1019/test_lab001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Locators_1019/test_lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Locators_1019/test_lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Locators_1019/test_lab004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,76 +48,80 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test_lab001.test_sample.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab002.test_open_login.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab003.test_chrome_options.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab004.test_verify_url.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_task01.test_verify_url.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_task_1017.test_login.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_lab001.test_negative_vwo_url.executor": "Run",
+    "Python tests.Python tests for test_lab001.test_sample.executor": "Run",
+    "Python tests.Python tests for test_lab002.test_negative_vwo_url.executor": "Run",
+    "Python tests.Python tests for test_lab002.test_open_login.executor": "Run",
+    "Python tests.Python tests for test_lab002.test_postive_free_trail.executor": "Run",
+    "Python tests.Python tests for test_lab003.test_4.executor": "Run",
+    "Python tests.Python tests for test_lab003.test_chrome_options.executor": "Run",
+    "Python tests.Python tests for test_lab004.test_verify_url.executor": "Run",
+    "Python tests.Python tests for test_task01.test_verify_url.executor": "Run",
+    "Python tests.Python tests for test_task_1017.test_login.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
-  <component name="RunManager" selected="Python tests.Python tests for test_task_1017.test_login">
-    <configuration name="Python tests for src.Sel_1015.test_task02.test_verify_url" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python tests.Python tests for test_lab003.test_4">
+    <configuration name="Python tests for test_lab001.test_negative_vwo_url" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="4TXSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sel_1015" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Locators_1019" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.Sel_1015.test_task02.test_verify_url&quot;" />
+      <option name="_new_target" value="&quot;test_lab001.test_negative_vwo_url&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_lab002.test_open_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_lab002.test_negative_vwo_url" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="4TXSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sel_1015" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Locators_1019" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab002.test_open_login&quot;" />
+      <option name="_new_target" value="&quot;test_lab002.test_negative_vwo_url&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_lab003.test_chrome_options" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_lab002.test_postive_free_trail" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="4TXSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sel_1015" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Locators_1019" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab003.test_chrome_options&quot;" />
+      <option name="_new_target" value="&quot;test_lab002.test_postive_free_trail&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_lab004.test_verify_url" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_lab003.test_4" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="4TXSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sel_1015" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Locators_1019" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab004.test_verify_url&quot;" />
+      <option name="_new_target" value="&quot;test_lab003.test_4&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -133,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_lab003.test_4" />
+        <item itemvalue="Python tests.Python tests for test_lab002.test_postive_free_trail" />
+        <item itemvalue="Python tests.Python tests for test_lab002.test_negative_vwo_url" />
+        <item itemvalue="Python tests.Python tests for test_lab001.test_negative_vwo_url" />
         <item itemvalue="Python tests.Python tests for test_task_1017.test_login" />
-        <item itemvalue="Python tests.Python tests for test_lab004.test_verify_url" />
-        <item itemvalue="Python tests.Python tests for test_lab003.test_chrome_options" />
-        <item itemvalue="Python tests.Python tests for test_lab002.test_open_login" />
-        <item itemvalue="Python tests.Python tests for src.Sel_1015.test_task02.test_verify_url" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +230,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729272489110</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="17th files of october">
+      <option name="closed" value="true" />
+      <created>1729272547175</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729272547175</updated>
+    </task>
+    <task id="LOCAL-00010" summary="17th files of october">
+      <option name="closed" value="true" />
+      <created>1729272606022</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729272606022</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
