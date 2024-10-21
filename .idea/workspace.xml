@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbe55b4e-3bd3-4c77-877c-6e9138ef2dbd" name="Changes" comment="17th files of october">
-      <change afterPath="$PROJECT_DIR$/src/Locators_1019/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Locators_1019/test_lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Locators_1019/test_lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Locators_1019/test_lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Locators_1019/test_lab004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fbe55b4e-3bd3-4c77-877c-6e9138ef2dbd" name="Changes" comment="19th files of october" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -246,12 +239,21 @@
       <option name="project" value="LOCAL" />
       <updated>1729272606022</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="19th files of october">
+      <option name="closed" value="true" />
+      <created>1729490005225</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1729490005228</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="15th files of october" />
     <MESSAGE value="17th files of october" />
-    <option name="LAST_COMMIT_MESSAGE" value="17th files of october" />
+    <MESSAGE value="19th files of october" />
+    <option name="LAST_COMMIT_MESSAGE" value="19th files of october" />
   </component>
 </project>
