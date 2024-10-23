@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbe55b4e-3bd3-4c77-877c-6e9138ef2dbd" name="Changes" comment="19th files of october">
-      <change afterPath="$PROJECT_DIR$/src/Locators_1019/test_task01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CSS_selectors_1022/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CSS_selectors_1022/test_lab001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CSS_selectors_1022/test_lab002.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +48,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test_lab001.test_5.executor": "Run",
+    "Python tests.Python tests for test_lab001.test_negative_vwo_login_project2.executor": "Run",
     "Python tests.Python tests for test_lab001.test_negative_vwo_url.executor": "Run",
     "Python tests.Python tests for test_lab001.test_sample.executor": "Run",
+    "Python tests.Python tests for test_lab002.test_5.executor": "Run",
+    "Python tests.Python tests for test_lab002.test_negative_vwo_free_trail_project3.executor": "Run",
     "Python tests.Python tests for test_lab002.test_negative_vwo_url.executor": "Run",
     "Python tests.Python tests for test_lab002.test_open_login.executor": "Run",
     "Python tests.Python tests for test_lab002.test_postive_free_trail.executor": "Run",
@@ -57,68 +63,70 @@
     "Python tests.Python tests for test_task01.test_register.executor": "Run",
     "Python tests.Python tests for test_task01.test_verify_url.executor": "Run",
     "Python tests.Python tests for test_task_1017.test_login.executor": "Run",
+    "Python tests.Python tests in test_lab001.py.executor": "Run",
+    "Python tests.Python tests in test_lab002.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_task01.test_register">
-    <configuration name="Python tests for test_lab001.test_negative_vwo_url" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_lab002.test_5">
+    <configuration name="Python tests for test_lab001.test_5" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="4TXSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Locators_1019" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/CSS_selectors_1022" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab001.test_negative_vwo_url&quot;" />
+      <option name="_new_target" value="&quot;test_lab001.test_5&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_lab002.test_negative_vwo_url" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_lab001.test_negative_vwo_login_project2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="4TXSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Locators_1019" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/CSS_selectors_1022" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab002.test_negative_vwo_url&quot;" />
+      <option name="_new_target" value="&quot;test_lab001.test_negative_vwo_login_project2&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_lab002.test_postive_free_trail" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_lab002.test_5" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="4TXSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Locators_1019" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/CSS_selectors_1022" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab002.test_postive_free_trail&quot;" />
+      <option name="_new_target" value="&quot;test_lab002.test_5&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_lab003.test_4" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_lab002.test_negative_vwo_free_trail_project3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="4TXSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Locators_1019" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/CSS_selectors_1022" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab003.test_4&quot;" />
+      <option name="_new_target" value="&quot;test_lab002.test_negative_vwo_free_trail_project3&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -139,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_lab002.test_5" />
+        <item itemvalue="Python tests.Python tests for test_lab001.test_5" />
+        <item itemvalue="Python tests.Python tests for test_lab002.test_negative_vwo_free_trail_project3" />
+        <item itemvalue="Python tests.Python tests for test_lab001.test_negative_vwo_login_project2" />
         <item itemvalue="Python tests.Python tests for test_task01.test_register" />
-        <item itemvalue="Python tests.Python tests for test_lab003.test_4" />
-        <item itemvalue="Python tests.Python tests for test_lab002.test_postive_free_trail" />
-        <item itemvalue="Python tests.Python tests for test_lab002.test_negative_vwo_url" />
-        <item itemvalue="Python tests.Python tests for test_lab001.test_negative_vwo_url" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729490056757</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="19th files of october">
+      <option name="closed" value="true" />
+      <created>1729534129482</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1729534129482</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
